@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cardapio>
+    <Prato id="P01">
+        <nome>Bisteca no molho</nome>
+        <Descricao>Prato saboroso</Descricao>
+        <ingredientes>Bisteca, cebola, molho barbecue, sal a gosto</ingredientes>
+        <Preco>12R$</Preco>
+        <Calorias>418 kcal</Calorias>
+        <TempPreparo>40min</TempPreparo>
+    </Prato>
+
+    <Prato id="P02">
+        <nome>Strogonoff de carne</nome>
+        <Descricao>Prato Diferenciado de bom</Descricao>
+        <ingredientes>1 kg de carne, 3 cebolas, 1 vidro de champignon, sal a gosto, Pimenta-do-reino, 2 latas de creme de leite, 3 tomates picados, 3 colheres (sopa) de óleo, 2 colheres (sopa) de ketchup, 1 cubo de caldo de carne dissolvido em 100 ml de água</ingredientes>
+        <Preco>24,98R$</Preco>
+        <Calorias>98kcal</Calorias>
+        <TempPreparo>30min</TempPreparo>
+    </Prato>
+
+    <Prato id="P03">
+        <nome>Dogão</nome>
+        <Descricao>Prato perfeito</Descricao>
+        <ingredientes>300 g de salsicha, 1 cebola, 1 tomate, 1 colher de manteiga, 1 copo de extrato de tomate, 1 caixa de creme de leite, 1/2 medida de copo de extrado de tomate de agua</ingredientes>
+        <Preco>10R$</Preco>
+        <Calorias>200 kcal</Calorias>
+        <TempPreparo>30min</TempPreparo>
+    </Prato>
+
+    <Prato id="P04">
+        <nome>Feijoada</nome>
+        <Descricao>Prato Maravilhoso</Descricao>
+        <ingredientes>1 Kg de feijão preto, 100 g de costelinha de porco, 150 g de lingüiça portuguesa,50 g de lombo de porco</ingredientes>
+        <Preco>10R$</Preco>
+        <Calorias>212 kcal</Calorias>
+        <TempPreparo>2h 20min</TempPreparo>
+    </Prato>
+
+    <Prato id="P05">
+        <nome>Pastel</nome>
+        <Descricao>Prato saboroso</Descricao>
+        <ingredientes>Massa de pastel, Frango, Cheddar</ingredientes>
+        <Preco>12R$</Preco>
+        <Calorias>120 kcal</Calorias>
+        <TempPreparo>15min</TempPreparo>
+    </Prato>
+</Cardapio>
