@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cardapio>
+<cardapio xmlns="http://cardapio.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://cardapio.org 
+                                cardapio.xsd">
     <prato id="1">
         <nome>Espaguete à Bolonhesa</nome>
         <descricao>Delicioso espaguete com molho bolonhesa.</descricao>
